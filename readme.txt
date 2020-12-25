@@ -2,5 +2,9 @@ git test
 add a new line
 the third line
 
-branch M
+<<<<<<< HEAD
+branch S
 
+=======
+branch s
+>>>>>>> dev
